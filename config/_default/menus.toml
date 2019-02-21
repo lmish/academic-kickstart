@@ -2,6 +2,11 @@
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
+#  To link to a section of the homepage, use the form #<section-filename> where <section-filename> is
+#  the filename (without .md extension). For example, #posts references a section with filename posts.md.
+#    You can rename your section files in content/home/, just remember to use a dash (-) instead of spaces in the filename.
+#  To create a dropdown sub-menu, add identifier = "something" to the parent item and parent = "something" to the child item.
+
 
 [[main]]
   name = "Home"
