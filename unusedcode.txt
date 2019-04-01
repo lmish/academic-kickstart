@@ -1,0 +1,13 @@
+Unused Code from my website theme.
+
+
+The following was in authout/_index.md file. Put this after email and before organizational groups.
+# List (academic) interests or hobbies
+interests = [
+  "Astrophysics",
+  "Planetary Sciences",
+  "Theoretical Physics",
+  "Statistical Learning",
+  "Artificial Intelligence",
+  "Deep Neural Networks",
+]
